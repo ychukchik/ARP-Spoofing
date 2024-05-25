@@ -6,4 +6,4 @@ Usage:
 sudo ARPattack.py <IP_Victim> <IP_Router>
 
 Result at the second terminal:
-urlsnarf -i <interface>
+urlsnarf -i <Interface>
